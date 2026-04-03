@@ -1,0 +1,13 @@
+{
+  "top_churn_reasons": ["not", "cancel", "wait", "problem", "late"],
+  "best_model": "Linear SVM",
+  "model_accuracy": 0.92,
+  "churn_rate": "9.1%",
+  "recommendations": [
+    "Improve pricing transparency",
+    "Reduce cancellations",
+    "Fix app bugs",
+    "Improve driver allocation",
+    "Add loyalty program"
+  ]
+}
