@@ -110,3 +110,4 @@ Top churn indicators:
 ```bash
 git clone https://github.com/12sahu/Ride_Hailing_Churn-Analysis.git
 cd Ride_Hailing_Churn-Analysis
+### Run Jupyter Notebook (Analysis)
