@@ -110,4 +110,12 @@ Top churn indicators:
 ```bash
 git clone https://github.com/12sahu/Ride_Hailing_Churn-Analysis.git
 cd Ride_Hailing_Churn-Analysis
-### Run Jupyter Notebook (Analysis)
+$ jupyter notebook
+Open the Notebook
+$ jupyter notebook
+$ ride_hailing_churn_intelligence_system.ipynb
+Run Streamlit Dashboard
+$ streamlit run app.py
+Then open in your browser:
+
+http://localhost:8501
